@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: burlywood;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  max-width: 60%;
+  text-align: center;
+  margin: 0 auto;
+}
